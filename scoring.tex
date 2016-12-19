@@ -1,0 +1,67 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Tables for Scoring
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% heading
+\iftoggle{isGerman}{
+  	{\bf\large Wertung}\\
+}{
+	{\bf\large Evaluation}\\
+}
+
+
+% auto-generate table with all achievable points from all questions
+\begin{center}
+	\iftoggle{isGerman}{
+	  	\vqword{Aufgabe}
+		\vpword{Punkte gesamt}
+		\vsword{Punkte erreicht}
+	}{
+	  	\vqword{Question}
+		\vpword{Achievable points}
+		\vsword{Achieved points}
+	}
+	\cellwidth{2.2em}
+	\addpoints
+	\gradetable[v]
+\end{center}
+
+
+% table for total result
+\begin{table}[h]
+	\centering
+	\cellwidth{2.2em}
+	\begin{tabular}{| >{\centering\arraybackslash}p{2cm} | p{4cm} |}
+		\hline
+		\iftoggle{isGerman}{
+			\textbf{Note} 
+		}{
+			\textbf{Grade} 
+		}
+		& \parbox{0pt}{\rule{0pt}{5ex+\baselineskip}} \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\vspace{1 cm}
+
+
+% Post-exam review documentation
+\iftoggle{isGerman}{
+  	{\bf\large Klausureinsicht}\\
+}{
+	{\bf\large Post-exam review}\\
+}
+\begin{table}[h]
+	\centering
+	\begin{tabular}{| >{\centering\arraybackslash}p{2cm} | p{4cm} |}
+		\hline
+		\iftoggle{isGerman}{
+			\textsc{Datum} &  \parbox{0pt}{\rule{0pt}{5ex+\baselineskip}} \\ \hline
+			\textsc{Unterschrift} & \parbox{0pt}{\rule{0pt}{5ex+\baselineskip}} \\ \hline
+		}{
+			\textsc{Date} & \parbox{0pt}{\rule{0pt}{5ex+\baselineskip}} \\ \hline
+			\textsc{Signature} & \parbox{0pt}{\rule{0pt}{5ex+\baselineskip}} \\ \hline
+		} 
+	\end{tabular}
+\end{table}
