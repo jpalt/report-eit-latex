@@ -1,0 +1,46 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Front Page
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% include EIT background image on first page
+\ThisCenterWallPaper{1.0}{images/background-eit.pdf}
+
+% apply front page header and footer settings here
+\thispagestyle{frontpage}
+
+% fields for name and matriculation number
+%\iftoggle{isGerman}{
+	%Name: \hspace{7cm} Matrikelnummer:
+%}{
+%	Name: \hspace{7cm} Matriculation Number:
+%}\vspace{-10}
+
+\rule{\textwidth}{0.5pt}
+
+
+\vspace*{3.0cm}
+\begin{center}
+	% title and ID
+	{\Huge\bf\sc
+		\iftoggle{isGerman}
+		{
+			Aufgaben
+		}
+		{
+			Exercises
+		}
+	\vspace{2.0cm}
+	\\
+ in \\
+	\vspace{2.0cm}
+	\exerciseTitleLong \\}\vspace{3.0cm}
+	
+	
+	% date
+	\Date
+
+\end{center}
+
+
+
+%\end{titlepage}

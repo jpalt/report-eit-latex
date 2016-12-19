@@ -1,0 +1,774 @@
+SyncTeX Version:1
+Input:1:C:/Users\jasmi\Desktop\Report Template\main.tex
+Input:2:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\exam\exam.cls
+Input:3:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+Input:4:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+Input:5:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+Input:6:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+Input:7:C:\Users\jasmi\Desktop\Report Template\includes\packages.tex
+Input:8:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+Input:9:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+Input:10:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+Input:11:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+Input:12:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+Input:13:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+Input:14:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+Input:15:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+Input:16:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+Input:17:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+Input:18:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+Input:19:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+Input:20:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+Input:21:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg
+Input:22:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+Input:23:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+Input:24:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+Input:25:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+Input:26:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+Input:27:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+Input:28:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+Input:29:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg
+Input:30:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+Input:31:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+Input:32:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+Input:33:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+Input:34:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+Input:35:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.cfg
+Input:36:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+Input:37:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+Input:38:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+Input:39:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+Input:40:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+Input:41:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+Input:42:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+Input:43:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+Input:44:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+Input:45:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+Input:46:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+Input:47:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+Input:48:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+Input:49:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+Input:50:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+Input:51:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+Input:52:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+Input:53:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+Input:54:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+Input:55:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+Input:56:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+Input:57:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+Input:58:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+Input:59:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+Input:60:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+Input:61:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+Input:62:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+Input:63:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+Input:64:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+Input:65:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+Input:66:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+Input:67:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+Input:68:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+Input:69:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+Input:70:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+Input:71:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+Input:72:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+Input:73:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+Input:74:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+Input:75:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+Input:76:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+Input:77:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+Input:78:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+Input:79:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+Input:80:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+Input:81:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+Input:82:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+Input:83:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def
+Input:84:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu
+Input:85:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu
+Input:86:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu
+Input:87:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+Input:88:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+Input:89:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\paratype\paratype.sty
+Input:90:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\paratype\PTSans.sty
+Input:91:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\paratype\PTSerif.sty
+Input:92:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\paratype\PTMono.sty
+Input:93:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\wallpaper\wallpaper.sty
+Input:94:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+Input:95:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty
+Input:96:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty
+Input:97:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+Input:98:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+Input:99:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+Input:100:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg
+Input:101:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+Input:102:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+Input:103:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+Input:104:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty
+Input:105:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty
+Input:106:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\makeidx.sty
+Input:107:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+Input:108:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\epsf\epsf.sty
+Input:109:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+Input:110:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+Input:111:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+Input:112:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+Input:113:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+Input:114:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\germbib\bibgerm.sty
+Input:115:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\epsfig.sty
+Input:116:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty
+Input:117:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg
+Input:118:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+Input:119:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+Input:120:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
+Input:121:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
+Input:122:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\bm.sty
+Input:123:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\varioref.sty
+Input:124:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\moreverb\moreverb.sty
+Input:125:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+Input:126:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mdwtools\mdwlist.sty
+Input:127:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\was\icomma.sty
+Input:128:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\capt-of\capt-of.sty
+Input:129:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\layout.sty
+Input:130:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ae\ae.sty
+Input:131:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+Input:132:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+Input:133:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ae\t1aer.fd
+Input:134:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+Input:135:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\trsym\trsym.sty
+Input:136:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\trfsigns\trfsigns.sty
+Input:137:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\units\units.sty
+Input:138:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\units\nicefrac.sty
+Input:139:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\rotating.sty
+Input:140:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+Input:141:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+Input:142:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+Input:143:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+Input:144:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+Input:145:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+Input:146:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+Input:147:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+Input:148:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+Input:149:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+Input:150:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+Input:151:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+Input:152:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+Input:153:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\sttools\flushend.sty
+Input:154:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfig\subfig.sty
+Input:155:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty
+Input:156:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\paralist\paralist.sty
+Input:157:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty
+Input:158:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.sty
+Input:159:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+Input:160:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty
+Input:161:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+Input:162:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
+Input:163:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def
+Input:164:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+Input:165:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+Input:166:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator.sty
+Input:167:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator-language-mappings.tex
+Input:168:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\threeparttable\threeparttable.sty
+Input:169:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\makecell\makecell.sty
+Input:170:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\sttools\stfloats.sty
+Input:171:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cleveref\cleveref.sty
+Input:172:C:\Users\jasmi\Desktop\Report Template\includes\settings.tex
+Input:173:C:\Users\jasmi\Desktop\Report Template\main.aux
+Input:174:C:\Users\jasmi\Desktop\Report Template\references\example.tex.aux
+Input:175:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ae\t1aess.fd
+Input:176:C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii
+Input:177:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+Input:178:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+Input:179:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+Input:180:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+Input:181:C:\Users\jasmi\Desktop\Report Template\main.out
+Input:182:C:\Users\jasmi\Desktop\Report Template\main.out
+Input:183:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
+Input:184:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator-basic-dictionary\translator-basic-dictionary-English.dict
+Input:185:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
+Input:186:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+Input:187:C:\Users\jasmi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+Input:188:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\trsym\utrsy.fd
+Input:189:C:\Users\jasmi\Desktop\Report Template\frontpage.tex
+Output:pdf
+Magnification:1000
+Unit:1
+X Offset:0
+Y Offset:0
+Content:
+!16234
+{1
+[1,57:4736286,51322009:29834876,46585723,0
+h1,57:4736286,4736286:0,0,0
+h1,57:4736286,4736286:0,0,0
+[1,57:4736286,4736286:0,0,0
+(1,57:4736286,3551698:0,0,0
+k1,57:4736286,3551698:65781
+)
+]
+[1,57:4736286,50371738:29834876,45635452,950271
+(1,57:4736286,4736286:0,0,0
+[1,57:0,4736286:29834876,0,0
+(1,57:0,0:29834876,0,0
+h1,57:0,0:0,0,0
+(1,57:0,0:0,0,0
+(1,57:0,0:0,0,0
+g1,57:0,0
+(1,57:0,0:0,0,55380990
+(1,57:0,55380990:0,55380990,0
+(1,57:0,55380990:0,55380990,0
+[1,57:0,55380990:39158276,55380990,0
+(1,57:0,55380931:39158276,55380872,0
+k1,57:35,55380931:35
+h1,57:35,55380931:0,0,0
+(1,57:35,55380931:39158207,55380872,0
+(1,57:35,55380931:39158303,55381007,0
+(1,57:35,55380931:39158303,55381007,0
+(1,57:35,55380931:0,55381007,0
+(1,57:35,55380931:39158303,55381007,0
+)
+k1,57:34,55380931:-39158304
+)
+)
+)
+)
+g1,57:39158242,55380931
+k1,57:39158276,55380931:34
+)
+]
+k1,57:0,55380990:-39158276
+)
+g1,57:0,55380990
+)
+)
+g1,57:0,0
+)
+)
+k1,57:29834876,0:29834876
+g1,57:29834876,0
+)
+]
+)
+[1,57:4736286,50371738:29834876,46754259,950271
+[1,57:4736286,4600519:29834876,983040,0
+(1,57:4736286,4600519:29834876,0,0
+(1,57:4736286,4600519:29834876,0,0
+(1,57:4736286,4600519:29834876,0,0
+[1,57:4736286,4600519:29834876,0,0
+(1,57:4736286,4600519:29834876,0,0
+(1,57:4736286,4600519:0,0,0
+[1,57:4736286,4600519:29834876,0,0
+(1,57:4736286,4600519:29834876,0,0
+h1,57:4736286,4600519:0,0,0
+k1,57:19653724,4600519:14917438
+k1,57:34571162,4600519:14917438
+)
+]
+k1,57:4736286,4600519:-29834876
+)
+g1,57:4736286,4600519
+[1,57:4736286,4600519:29834876,0,0
+(1,57:4736286,4600519:29834876,0,0
+k1,57:19653724,4600519:14917438
+h1,57:19653724,4600519:0,0,0
+g1,57:19653724,4600519
+k1,57:34571162,4600519:14917438
+)
+]
+g1,57:34571162,4600519
+(1,57:34571162,4600519:0,0,0
+k1,57:4736286,4600519:-29834876
+[1,57:4736286,4600519:29834876,0,0
+(1,57:4736286,4600519:29834876,0,0
+k1,57:34571162,4600519:29834876
+h1,57:34571162,4600519:0,0,0
+g1,57:34571162,4600519
+g1,57:34571162,4600519
+)
+]
+)
+)
+]
+)
+g1,57:34571162,4600519
+)
+)
+]
+[1,57:4736286,48471194:29834876,42887635,0
+(189,19:4736286,6369991:29834876,32768,0
+h189,18:4736286,6369991:0,0,0
+(189,18:4736286,6369991:29834876,32768,0
+r189,18:34571162,6369991:29834876,32768,0
+)
+g189,19:34571162,6369991
+g189,19:34571162,6369991
+)
+(189,33:4736286,15458398:29834876,1131579,0
+k189,33:16285896,15458398:11549610
+(189,22:16285896,15458398:0,0,0
+g189,22:16285896,15458398
+g189,22:16285896,15458398
+g189,22:15900876,15458398
+(189,22:15900876,15458398:0,0,0
+)
+g189,22:16285896,15458398
+)
+x189,22:22000849,15458398
+g189,31:22511200,15458398
+g189,31:23021551,15458398
+g189,33:23021551,15458398
+k189,33:34571161,15458398:11549610
+)
+(189,34:4736286,21153837:29834876,1068803,0
+k189,34:19078968,21153837:14342682
+h189,34:19078968,21153837:0,0,0
+x189,34:20228480,21153837
+g189,34:20228480,21153837
+k189,34:34571162,21153837:14342682
+)
+(189,36:4736286,26849276:29834876,1217188,407634
+k189,36:6100032,26849276:1363746
+h189,36:6100032,26849276:0,0,0
+x189,36:11676414,26849276
+g189,36:12273174,26849276
+x189,36:15105393,26849276
+x189,36:17474565,26849276
+g189,36:18071325,26849276
+x189,36:21195418,26849276
+g189,36:21792178,26849276
+x189,36:27611508,26849276
+g189,36:28208268,26849276
+x189,36:33207416,26849276
+g189,36:33207416,26849276
+k189,36:34571162,26849276:1363746
+)
+]
+(1,57:4736286,50371738:29834876,665187,950271
+(1,57:4736286,50371738:29834876,665187,950271
+(1,57:4736286,50371738:29834876,665187,950271
+[1,57:4736286,50371738:29834876,665187,950271
+(1,57:4736286,50371738:29834876,665187,950271
+(1,57:4736286,50371738:0,665187,285084
+[1,57:4736286,50371738:29834876,665187,285084
+(1,57:4736286,50371738:29834876,665187,285084
+h1,57:4736286,50371738:0,0,0
+g1,57:4992662,50371738
+x1,57:7682235,50371738
+g1,57:7970061,50371738
+x1,57:9336082,50371738
+x1,57:10478768,50371738
+g1,57:10766594,50371738
+x1,57:11971402,50371738
+x1,57:12558076,50371738
+g1,57:12845902,50371738
+x1,57:15652651,50371738
+g1,57:15940477,50371738
+x1,57:18351641,50371738
+r1,57:18351641,50371738:0,950271,285084
+k1,57:26461402,50371738:8109761
+k1,57:34571162,50371738:8109760
+)
+]
+k1,57:4736286,50371738:-29834876
+)
+g1,57:4736286,50371738
+[1,57:4736286,50371738:29834876,0,950271
+(1,57:4736286,51036925:29834876,665187,285084
+k1,57:13068210,51036925:8331924
+h1,57:13068210,51036925:0,0,0
+x1,57:15757783,51036925
+g1,57:16045609,51036925
+x1,57:17411630,51036925
+x1,57:18554316,51036925
+g1,57:18842142,51036925
+x1,57:19283329,51036925
+x1,57:20634403,51036925
+x1,57:21099177,51036925
+g1,57:21387003,51036925
+x1,57:21819540,51036925
+g1,57:22107366,51036925
+x1,57:26239238,51036925
+r1,57:26239238,51036925:0,950271,285084
+g1,57:26239238,51036925
+k1,57:34571162,51036925:8331924
+)
+]
+g1,57:34571162,50371738
+(1,57:34571162,50371738:0,665187,285084
+k1,57:4736286,50371738:-29834876
+[1,57:4736286,50371738:29834876,665187,285084
+(1,57:4736286,50371738:29834876,665187,285084
+k1,57:30337834,50371738:25601548
+h1,57:30337834,50371738:0,0,0
+x1,57:30826993,50371738
+x1,57:31900465,50371738
+g1,57:32156841,50371738
+x1,57:32541401,50371738
+g1,57:32797777,50371738
+x1,57:33417473,50371738
+g1,57:33673849,50371738
+x1,57:34058409,50371738
+g1,57:34314785,50371738
+g1,57:34571161,50371738
+r1,57:34571161,50371738:0,950271,285084
+g1,57:34571161,50371738
+g1,57:34571161,50371738
+)
+]
+)
+)
+]
+)
+g1,57:34571162,50371738
+)
+)
+]
+(1,57:4736286,4736286:0,0,0
+[1,57:0,4736286:29834876,0,0
+(1,57:0,0:29834876,0,0
+h1,57:0,0:0,0,0
+(1,57:0,0:0,0,0
+(1,57:0,0:0,0,0
+g1,57:0,0
+(1,57:0,0:0,0,55380990
+(1,57:0,55380990:0,0,0
+g1,57:0,55380990
+)
+)
+g1,57:0,0
+)
+)
+k1,57:29834876,0:29834876
+g1,57:29834876,0
+)
+]
+)
+]
+]
+!5530
+}1
+Input:190:C:\Users\jasmi\Desktop\Report Template\questions\example.tex
+!80
+{2
+[1,70:4736286,50371738:29834876,45635452,950271
+h1,70:4736286,4736286:0,0,0
+[1,70:4736286,4736286:0,0,0
+(1,70:4736286,3551698:0,0,0
+k1,70:4736286,3551698:65781
+)
+]
+[1,70:4736286,50371738:29834876,45635452,950271
+(1,70:4736286,4736286:0,0,0
+[1,70:0,4736286:29834876,0,0
+(1,70:0,0:29834876,0,0
+h1,70:0,0:0,0,0
+(1,70:0,0:0,0,0
+(1,70:0,0:0,0,0
+g1,70:0,0
+(1,70:0,0:0,0,55380990
+(1,70:0,55380990:0,0,0
+g1,70:0,55380990
+)
+)
+g1,70:0,0
+)
+)
+k1,70:29834876,0:29834876
+g1,70:29834876,0
+)
+]
+)
+[1,70:4736286,50371738:29834876,46754259,950271
+[1,70:4736286,4600519:29834876,983040,0
+(1,70:4736286,4600519:29834876,0,0
+(1,70:4736286,4600519:29834876,0,0
+(1,70:4736286,4600519:29834876,0,0
+[1,70:4736286,4600519:29834876,0,0
+(1,70:4736286,4600519:29834876,0,0
+(1,70:4736286,4600519:0,0,0
+[1,70:4736286,4600519:29834876,0,0
+(1,70:4736286,4600519:29834876,0,0
+h1,70:4736286,4600519:0,0,0
+k1,70:19653724,4600519:14917438
+k1,70:34571162,4600519:14917438
+)
+]
+k1,70:4736286,4600519:-29834876
+)
+g1,70:4736286,4600519
+[1,70:4736286,4600519:29834876,0,0
+(1,70:4736286,4600519:29834876,0,0
+k1,70:19653724,4600519:14917438
+h1,70:19653724,4600519:0,0,0
+g1,70:19653724,4600519
+k1,70:34571162,4600519:14917438
+)
+]
+g1,70:34571162,4600519
+(1,70:34571162,4600519:0,0,0
+k1,70:4736286,4600519:-29834876
+[1,70:4736286,4600519:29834876,0,0
+(1,70:4736286,4600519:29834876,0,0
+k1,70:34571162,4600519:29834876
+h1,70:34571162,4600519:0,0,0
+g1,70:34571162,4600519
+g1,70:34571162,4600519
+)
+]
+)
+)
+]
+)
+g1,70:34571162,4600519
+)
+)
+]
+[1,70:4736286,48471194:29834876,42887635,0
+(190,4:6103546,6369991:28467616,704481,1047501
+(190,1:6103546,6369991:28467616,704481,1047501
+g190,1:6103546,6369991
+g190,1:5121306,6369991
+g190,1:4736286,6369991
+(190,1:4736286,6369991:29449856,704481,1047501
+g190,1:4736286,6369991
+(190,1:4736286,6369991:29834876,704481,1047501
+x190,1:8564919,6369991
+g190,1:8910310,6369991
+x190,1:9429355,6369991
+g190,1:10199266,6369991
+x190,1:11121269,6369991
+g190,1:11466660,6369991
+x190,1:11996084,6369991
+x190,1:14495011,6369991
+k190,1:34571163,6369991:20076152
+(190,1:34571163,6369991:0,0,1047501
+r190,1:34571163,6369991:0,1047501,1047501
+)
+)
+g190,1:34186142,6369991
+)
+g190,1:34571162,6369991
+)
+g190,4:34571162,6369991
+)
+(190,4:6103546,8028807:28467616,545779,152563
+x190,4:8009049,8028807
+g190,3:8296875,8028807
+x190,3:10336863,8028807
+k190,4:34571163,8028807:24234300
+g190,4:34571163,8028807
+)
+(190,5:6103546,9306759:28467616,538308,152559
+h190,5:6103546,9306759:0,0,0
+x190,5:9462360,9306759
+g190,5:9718736,9306759
+x190,5:10733224,9306759
+g190,5:10989600,9306759
+x190,5:12462560,9306759
+g190,5:12718936,9306759
+x190,5:15536680,9306759
+k190,5:34571162,9306759:19034482
+g190,5:34571162,9306759
+)
+(190,5:16651520,11043463:7371669,747104,196608
+x190,5:17178580,11043463
+g190,5:17453508,11043463
+x190,5:18052428,11043463
+g190,5:18270878,11043463
+[190,5:18270878,11043463:5752311,747104,196608
+(190,5:18270878,11043463:5752311,589824,196608
+x190,5:19147595,11043463
+g190,5:19322355,11043463
+x190,5:19921275,11043463
+g190,5:20096035,11043463
+x190,5:20681029,11043463
+x190,5:21020175,11043463
+g190,5:21194935,11043463
+x190,5:21413389,11043463
+g190,5:21588149,11043463
+x190,5:22438534,11043463
+g190,5:22669772,11043463
+x190,5:22888226,11043463
+g190,5:23062986,11043463
+x190,5:23702339,11043463
+x190,5:24023189,11043463
+)
+]
+)
+(190,7:6103546,12780167:28467616,538308,152559
+x190,7:6611578,12780167
+x190,5:7327226,12780167
+g190,5:7583602,12780167
+x190,5:8688530,12780167
+g190,5:8944906,12780167
+x190,5:10256650,12780167
+g190,5:10513026,12780167
+x190,5:11544818,12780167
+g190,6:11801194,12780167
+x190,6:12815682,12780167
+g190,6:13072058,12780167
+x190,6:14545018,12780167
+g190,6:14801394,12780167
+x190,6:16468618,12780167
+g190,6:16724994,12780167
+x190,6:17799250,12780167
+x190,6:18695777,12780167
+g190,6:18952153,12780167
+x190,6:19527809,12780167
+g190,6:19784185,12780167
+x190,6:20999993,12780167
+g190,6:21256369,12780167
+x190,6:21640929,12780167
+x190,6:21885504,12780167
+k190,7:34571162,12780167:12685658
+g190,7:34571162,12780167
+)
+[190,13:4736286,18098807:29834876,4248577,0
+[190,13:4736286,18098807:29834876,4248577,0
+(190,11:4736286,16340616:29834876,2490386,0
+k190,11:9953385,16340616:5217099
+h190,10:9953385,16340616:0,0,0
+(190,10:9953385,16340616:19400679,2490386,0
+(190,10:9953385,16340616:19400727,2490393,0
+(190,10:9953385,16340616:19400727,2490393,0
+(190,10:9953385,16340616:0,2490393,0
+(190,10:9953385,16340616:19400727,2490393,0
+)
+k190,10:9953384,16340616:-19400728
+)
+)
+)
+)
+g190,11:29354064,16340616
+k190,11:34571162,16340616:5217098
+)
+(190,11:4736286,17946248:29834876,538308,152559
+k190,11:15184096,17946248:10447810
+(190,11:15184096,17946248:8939256,538308,152559
+x190,11:16399904,17946248
+g190,11:16656280,17946248
+x190,11:17253960,17946248
+g190,11:17595264,17946248
+(190,11:17595264,17946248:0,0,0
+(190,11:17595264,16995976:0,0,0
+)
+)
+x190,11:20470416,17946248
+g190,11:20726792,17946248
+x190,11:22199752,17946248
+g190,11:22456128,17946248
+x190,11:24123352,17946248
+)
+k190,11:34571162,17946248:10447810
+)
+]
+]
+]
+(1,70:4736286,50371738:29834876,665187,950271
+(1,70:4736286,50371738:29834876,665187,950271
+(1,70:4736286,50371738:29834876,665187,950271
+[1,70:4736286,50371738:29834876,665187,950271
+(1,70:4736286,50371738:29834876,665187,950271
+(1,70:4736286,50371738:0,0,950271
+[1,70:4736286,50371738:29834876,0,950271
+(1,70:4736286,51036925:29834876,665187,285084
+h1,70:4736286,51036925:0,0,0
+x1,70:7425859,51036925
+g1,70:7713685,51036925
+x1,70:9079706,51036925
+x1,70:10222392,51036925
+g1,70:10510218,51036925
+x1,70:11715026,51036925
+x1,70:12301700,51036925
+g1,70:12589526,51036925
+x1,70:15396275,51036925
+g1,70:15684101,51036925
+x1,70:18095265,51036925
+r1,70:18095265,51036925:0,950271,285084
+k1,70:26333214,51036925:8237949
+k1,70:34571162,51036925:8237948
+)
+]
+k1,70:4736286,50371738:-29834876
+)
+g1,70:4736286,50371738
+[1,70:4736286,50371738:29834876,0,950271
+(1,70:4736286,51036925:29834876,665187,285084
+k1,70:13068210,51036925:8331924
+h1,70:13068210,51036925:0,0,0
+x1,70:15757783,51036925
+g1,70:16045609,51036925
+x1,70:17411630,51036925
+x1,70:18554316,51036925
+g1,70:18842142,51036925
+x1,70:19283329,51036925
+x1,70:20634403,51036925
+x1,70:21099177,51036925
+g1,70:21387003,51036925
+x1,70:21819540,51036925
+g1,70:22107366,51036925
+x1,70:26239238,51036925
+r1,70:26239238,51036925:0,950271,285084
+g1,70:26239238,51036925
+k1,70:34571162,51036925:8331924
+)
+]
+g1,70:34571162,50371738
+(1,70:34571162,50371738:0,665187,285084
+k1,70:4736286,50371738:-29834876
+[1,70:4736286,50371738:29834876,665187,285084
+(1,70:4736286,50371738:29834876,665187,285084
+k1,70:30337834,50371738:25601548
+h1,70:30337834,50371738:0,0,0
+x1,70:30826993,50371738
+x1,70:31900465,50371738
+g1,70:32156841,50371738
+x1,70:32541401,50371738
+g1,70:32797777,50371738
+x1,70:33417473,50371738
+g1,70:33673849,50371738
+x1,70:34058409,50371738
+g1,70:34314785,50371738
+g1,70:34571161,50371738
+r1,70:34571161,50371738:0,950271,285084
+g1,70:34571161,50371738
+g1,70:34571161,50371738
+)
+]
+)
+)
+]
+)
+g1,70:34571162,50371738
+)
+)
+]
+(1,70:4736286,4736286:0,0,0
+[1,70:0,4736286:29834876,0,0
+(1,70:0,0:29834876,0,0
+h1,70:0,0:0,0,0
+(1,70:0,0:0,0,0
+(1,70:0,0:0,0,0
+g1,70:0,0
+(1,70:0,0:0,0,55380990
+(1,70:0,55380990:0,0,0
+g1,70:0,55380990
+)
+)
+g1,70:0,0
+)
+)
+k1,70:29834876,0:29834876
+g1,70:29834876,0
+)
+]
+)
+]
+]
+!7229
+}2
+Input:191:C:\Users\jasmi\Desktop\Report Template\main.aux
+Input:192:C:\Users\jasmi\Desktop\Report Template\references\example.tex.aux
+!143
+Postamble:
+Count:446
+!26
+Post scriptum:
